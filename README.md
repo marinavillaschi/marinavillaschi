@@ -1,19 +1,27 @@
 ## Hi there 👋
 
-As a Data Scientist and Civil Structure Engineer I combine analytical, critical thinking and problem-solving skills, ability to work in team environments and attention to details. I'm constantly improving my hard and soft skills as a data professional.
+As a Data Scientist and Civil Structure Engineer I combine analytical, critical thinking and problem-solving skills, ability to work in team environments and attention to details.
+
+I'm constantly improving my hard and soft skills and growing as a data professional.
 
 ### Skills
 
 Languages: Python, R
+
 Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, Flask, SQLAlchemy, Kafka-python
+
 Other: SQL, PostgreSQL, Google Data Studio, Streamlit, Git
+
 Softskills: leadership, Scrum, Storytelling
 
 ### Find me
 
+<a href="https://www.linkedin.com/in/marinavillaschi/">
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
-<a href="https://www.linkedin.com/in/marinavillaschi/"><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
-<a href="https://pandascouple.medium.com/"><img src="{https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}" />
+<a href="https://pandascouple.medium.com/">
+<img src="{https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}" />
+
 <a href="https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y="><img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" /></a>
 
 
