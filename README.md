@@ -16,13 +16,11 @@ Softskills: leadership, Scrum, Storytelling
 
 ### Find me
 
-<a href="https://www.linkedin.com/in/marinavillaschi/">
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />("https://www.linkedin.com/in/marinavillaschi/")
 
-<a href="https://pandascouple.medium.com/">
-<img src="{https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}" />("https://pandascouple.medium.com/")
 
-<a href="https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y="><img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" /></a>
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" /></a>("https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y=")
 
 
 <!--
