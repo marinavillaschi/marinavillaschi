@@ -14,13 +14,34 @@ Other: SQL, PostgreSQL, Google Data Studio, Streamlit, Git
 
 Softskills: leadership, Scrum, Storytelling
 
+
+
+### Portfolio
+
+**Data Analysis**
+* [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
+* [Airbnb Analysis](https://github.com/marinavillaschi/airbnb-analysis)
+
+**Machine Learning**
+* [Customer Acquisition through segmentation and classification](https://github.com/marinavillaschi/customer-acquisition)
+* [Article Recommendation System](https://github.com/marinavillaschi/article-recommendation-system)
+* [Disaster Messages Classification with NLP](https://github.com/marinavillaschi/disaster-response-pipeline)
+* [Credit Card Fraud Detection](https://github.com/marinavillaschi/creditcard-fraud-detection)
+* [Credit Card Client Default Prediction](https://github.com/marinavillaschi/creditcard-default-pred)
+* [Churn Prediction for Telecom Company](https://github.com/marinavillaschi/churn-prediction)
+
+**Python Packages**
+* [proba_distr - A Python package for probability distributions](https://github.com/marinavillaschi/proba_distr) 
+
+**API**
+* [Find a Restaurant API](https://github.com/marinavillaschi/FindRestaurant)
+
+
+
 ### Find me
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />("https://www.linkedin.com/in/marinavillaschi/")
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinavillaschi) [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pandascouple.medium.com/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y=)
 
-<img src="{https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white}" />("https://pandascouple.medium.com/")
-
-<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" /></a>("https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y=")
 
 
 <!--
