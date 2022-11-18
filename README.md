@@ -8,11 +8,11 @@ I'm constantly improving my hard and soft skills and growing as a data professio
 
 Languages: Python, R
 
-Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, Flask, SQLAlchemy, Kafka-python
+Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, Flask, FastAPI, SQLAlchemy, Kafka-python, TensorFlow
 
-Other: SQL, PostgreSQL, Google Data Studio, Streamlit, Git
+Other: SQL, PostgreSQL, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
 
-Softskills: leadership, Scrum, Storytelling
+Softskills: Leadership, Scrum, Storytelling with data
 
 
 
