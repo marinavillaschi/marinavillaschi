@@ -19,11 +19,8 @@ Softskills: Leadership, Scrum, Storytelling with data
 
 ### Portfolio
 
-**Currently working on**
-
-I'm currently working on an end to end Machine Learning Project.
-
-Follow [this link](https://github.com/marinavillaschi/endtoend_ml_project) to see my progress on it.
+**🔭 Currently working on**
+* I'm currently working on an [end to end Machine Learning Project](https://github.com/marinavillaschi/endtoend_ml_project)
 
 **Data Analysis**
 * [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
@@ -45,7 +42,7 @@ Follow [this link](https://github.com/marinavillaschi/endtoend_ml_project) to se
 
 
 
-### Find me
+### 📫 Find me
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinavillaschi) [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pandascouple.medium.com/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pandas_couple?igshid=YmMyMTA2M2Y=)
 
