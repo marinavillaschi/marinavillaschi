@@ -4,9 +4,6 @@ As a Data Scientist and Civil Structure Engineer I combine analytical, critical 
 
 I'm constantly improving my hard and soft skills and growing as a data professional.
 
-### Currently working on
-
-I'm currently working on an end to end Machine Learning Project. Follow [this link](https://github.com/marinavillaschi/endtoend_ml_project) to see my progress on it.
 
 ### Skills
 
@@ -21,6 +18,12 @@ Softskills: Leadership, Scrum, Storytelling with data
 
 
 ### Portfolio
+
+**Currently working on**
+
+I'm currently working on an end to end Machine Learning Project.
+
+Follow [this link](https://github.com/marinavillaschi/endtoend_ml_project) to see my progress on it.
 
 **Data Analysis**
 * [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
