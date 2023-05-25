@@ -4,6 +4,8 @@ As a Data Scientist and Civil Structure Engineer I combine analytical, critical 
 
 I'm constantly improving my hard and soft skills and growing as a data professional.
 
+🔭 I currently work at Qesh Technology, a BaaS (Banking as a Service) Startup.
+
 
 ### Skills
 
@@ -18,9 +20,6 @@ Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storyt
 
 
 ### Portfolio
-
-**🔭 Currently working on**
-* I'm currently working on a [Report Generator Project](https://github.com/marinavillaschi/report-generator) and an [end to end Machine Learning Project](https://github.com/marinavillaschi/endtoend_ml_project)
 
 **Data Analysis**
 * [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
