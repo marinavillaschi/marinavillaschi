@@ -2,9 +2,9 @@
 
 As a Data Scientist and Civil Structure Engineer I combine analytical, critical thinking and problem-solving skills, ability to work in team environments and attention to details.
 
-I'm constantly improving my hard and soft skills and growing as a data professional.
+I'm constantly improving my hard and soft skills and growing as a full stack data professional.
 
-🔭 I currently work at Qesh Technology, a BaaS (Banking as a Service) Startup.
+🔭 I currently work as a Data Scientist at Qesh Technology, a BaaS (Banking as a Service) Startup.
 
 
 ### Skills
