@@ -7,20 +7,20 @@ I'm constantly improving my hard and soft skills and growing as a data professio
 
 ### Skills
 
-Languages: Python, R
+Languages: Python, SQL
 
-Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, Flask, FastAPI, SQLAlchemy, Kafka-python, TensorFlow
+Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, FastAPI, SQLAlchemy, Kafka-python
 
-Other: SQL, PostgreSQL, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
+Other: PostgreSQL, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
 
-Softskills: Leadership, Scrum, Storytelling with data
+Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storytelling
 
 
 
 ### Portfolio
 
 **🔭 Currently working on**
-* I'm currently working on an [end to end Machine Learning Project](https://github.com/marinavillaschi/endtoend_ml_project)
+* I'm currently working on a [Report Generator Project](https://github.com/marinavillaschi/report-generator) and an [end to end Machine Learning Project](https://github.com/marinavillaschi/endtoend_ml_project)
 
 **Data Analysis**
 * [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
@@ -34,10 +34,13 @@ Softskills: Leadership, Scrum, Storytelling with data
 * [Credit Card Client Default Prediction](https://github.com/marinavillaschi/creditcard-default-pred)
 * [Churn Prediction for Telecom Company](https://github.com/marinavillaschi/churn-prediction)
 
+**Data Engineering**
+* [Report Generator Project](https://github.com/marinavillaschi/report-generator) - under construction 🚧
+
 **Python Packages**
 * [proba_distr - A Python package for probability distributions](https://github.com/marinavillaschi/proba_distr) 
 
-**API**
+**Backend**
 * [Find a Restaurant API](https://github.com/marinavillaschi/FindRestaurant)
 
 
