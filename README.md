@@ -13,7 +13,7 @@ Languages: Python, SQL
 
 Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, FastAPI, SQLAlchemy, Kafka-python
 
-Other: PostgreSQL, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
+Other: PostgreSQL, Databricks, AWS Lambda, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
 
 Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storytelling
 
