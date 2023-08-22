@@ -22,6 +22,7 @@ Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storyt
 ### Portfolio
 
 **Data Analysis**
+* [Mercado de Dados 2.0 - O futuro é flexível](https://www.kaggle.com/code/marinavillaschi/mercado-de-dados-2-0-o-futuro-flex-vel)
 * [COVID-19 Analysis](https://github.com/marinavillaschi/covid-analysis)
 * [Airbnb Analysis](https://github.com/marinavillaschi/airbnb-analysis)
 
