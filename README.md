@@ -13,7 +13,7 @@ Languages: Python, SQL
 
 Frameworks/Libs: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Statsmodels, SciPy, Beautiful Soup, Selenium, FastAPI, SQLAlchemy, Kafka-python
 
-Other: PostgreSQL, Databricks, AWS Lambda, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
+Other: PostgreSQL, Databricks, AWS Lambda, AWS Glue, AWS S3, Kafka, ElasticSearch, Google Data Studio, Microsoft PowerBI, Streamlit, Git/GitHub
 
 Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storytelling
 
@@ -27,6 +27,7 @@ Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storyt
 * [Airbnb Analysis](https://github.com/marinavillaschi/airbnb-analysis)
 
 **Machine Learning**
+* [Equipment Failure Prediction](https://github.com/marinavillaschi/equipment-failure-prediction)
 * [Customer Acquisition through segmentation and classification](https://github.com/marinavillaschi/customer-acquisition)
 * [Article Recommendation System](https://github.com/marinavillaschi/article-recommendation-system)
 * [Disaster Messages Classification with NLP](https://github.com/marinavillaschi/disaster-response-pipeline)
@@ -35,7 +36,7 @@ Softskills: Leadership, Communication, Team work, Scrum Methodology, Data Storyt
 * [Churn Prediction for Telecom Company](https://github.com/marinavillaschi/churn-prediction)
 
 **Data Engineering**
-* [Report Generator Project](https://github.com/marinavillaschi/report-generator) - under construction 🚧
+* [Report Generator Project](https://github.com/marinavillaschi/report-generator)
 
 **Python Packages**
 * [proba_distr - A Python package for probability distributions](https://github.com/marinavillaschi/proba_distr) 
